@@ -1,0 +1,47 @@
+body{
+	background:linear-gradient(89deg, #FF5EDF 0%, #66ff99 100%);
+}
+.nav{
+	/*position: absolute;*/
+	color: #00ccff;
+}
+#link{
+	position: absolute;
+	top: 200px;
+	left: 1000px;
+	width: 300px;
+	border-style: solid;
+	padding-top: 1px;
+}
+img{
+	padding-top: 15px;
+}
+b{
+	color: #008fb3;
+}
+h1{
+	text-align: center;
+	color: #008fb3;
+	border-bottom: 4px solid blue;
+	width: 400px;
+	/*border-right: 4px solid blue;*/
+	box-shadow:10px solid blue;
+	font-size: 40px;
+	padding-top: 25px;
+}
+footer{
+	background-color: black;
+
+}
+button{
+	background: linear-gradient(89deg, #FF5EDF 0%, #66ff99 100%);
+}
+input{
+	background:linear-gradient(89deg, #FF5EDF 0%, #66ff99 100%);
+}
+textarea{
+	 background:linear-gradient(89deg, #FF5EDF 0%, #66ff99 100%);
+}
+::placeholder{
+	color: black;
+}

@@ -1,0 +1,20 @@
+body{
+	background: background:linear-gradient(89deg, #FF5EDF 0%, #66ff99 100%);
+}
+fieldset{
+	border-width: 2px;
+}
+footer{
+	background-color: black;
+}
+}
+h1{
+	text-align: center;
+	color: #008fb3;
+	border-bottom: 4px solid blue;
+	width: 400px;
+	/*border-right: 4px solid blue;*/
+	box-shadow:10px solid blue;
+	font-size: 40px;
+	padding-top: 25px;
+}
